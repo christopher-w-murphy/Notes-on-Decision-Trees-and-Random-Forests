@@ -21,4 +21,4 @@ The structure of the notebook is as follows:
     - Gradient boosting
   - Exercise
 
-Note that MathJax does not appear to be properly working in the Jupyter Notebook uploaded on GitHub, as opposed to on my computer, so the equations are not being visualized correctly.
+Note that MathJax is not working properly in the Jupyter Notebook uploaded to GitHub, as opposed to on my computer, so the equations are not being visualized correctly. One option is to paste the link to the notebook into http://nbviewer.jupyter.org
