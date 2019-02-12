@@ -1,4 +1,6 @@
-# Notes-on-Decision-Trees-and-Random-Forests
+# Notes on Decision Trees and Random-Forests
+
+## Decision Trees and Random Forests
 These are my notes for the [Insight](https://www.insightdata.ai/) interview prep workshop I led on Random Forests. They mostly are based on chapters 6 and 7 of *Hands-On Machine Learning with Scikit-Learn and TensorFlow* by Aur&eacute;lien G&eacute;ron, https://github.com/ageron/handson-ml, with the emphasis of topics and some additional content coming from the Insight Interview Prep Checklist. 
 
 The structure of the notebook is as follows:
@@ -22,3 +24,11 @@ The structure of the notebook is as follows:
   - Exercise
 
 Note that MathJax is not working properly in the Jupyter Notebook uploaded to GitHub, as opposed to on my computer, so the equations are not being visualized correctly. One option is to paste the link to the notebook into http://nbviewer.jupyter.org
+
+## Advanced Topics
+- LightGBM
+
+To Do:
+- Class Imbalance
+- Prediction Intervals
+- XGBoost
