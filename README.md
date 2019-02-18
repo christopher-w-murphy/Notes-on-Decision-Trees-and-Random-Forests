@@ -26,9 +26,12 @@ The structure of the notebook is as follows:
 Note that MathJax is not working properly in the Jupyter Notebook uploaded to GitHub, as opposed to on my computer, so the equations are not being visualized correctly. One option is to paste the link to the notebook into http://nbviewer.jupyter.org
 
 ## Advanced Topics
+Frequently comes up during interviews
+- Class Imbalance
+
+Good to know of even if you don't use it
 - LightGBM
 
 To Do:
-- Class Imbalance
 - Prediction Intervals
 - XGBoost
